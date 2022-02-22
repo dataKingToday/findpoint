@@ -1,7 +1,7 @@
 # findpoint
 Calculate distance between a point and a line in latitude, longitude (with Harversine Formular)
 
- - 프로그램명 : findpoint ()
+ - 프로그램명 : findpoint (https://github.com/dataKingToday/findpoint)
 
  - 수행작업 : 여러 개의 링크를 로딩하여 주어진 좌표로 가장 가까운 링크 위 좌표를 찾아서 
               주어진 좌표와 찾은 좌표까지 거리미터, 찾은 좌표의 경위도를 출력
